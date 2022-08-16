@@ -1,7 +1,7 @@
 # Application-Web-Design
 Actividad numero 1 de Diseño de aplicaciones web
-## **Materia: ** Diseño de aplicaciones web
-## **Profesor: ** Abraham Sosa
+## **Materia:** Diseño de aplicaciones web
+## **Profesor:** Abraham Sosa
 
 **Nombre: ** Samuel de los Santos Ruiz
 **Matricula: ** 2961297
